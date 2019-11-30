@@ -8,3 +8,4 @@
 ### Week 5 & 6 - Graph Algorithms (BFS & DFS, MST - Prim & Kruskal, Dijkstra algorithm)
 ### Week 7 - Linear programming (Matlab & LINDO)
 ### Week 8 - NP - Completeness
+### Week 9 - Approximation Algorithms (bin packing problem)
